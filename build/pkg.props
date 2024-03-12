@@ -5,7 +5,7 @@
 	<ImplicitUsings>enable</ImplicitUsings>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
-	<DocumentationFile>$(MSBuildProjectName).xml</DocumentationFile>
+	<!--<DocumentationFile>$(MSBuildProjectName).xml</DocumentationFile>-->
 	<IsPackable>true</IsPackable>
 	<Authors>xiaoxue</Authors>
 	<Company>zhontai</Company>
